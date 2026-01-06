@@ -1,5 +1,5 @@
 <pre>
-trxvu_yamcs/
+yamcs_project/
 ├─ .github/
 ├─ .mvn/
 │  └─ wrapper/
