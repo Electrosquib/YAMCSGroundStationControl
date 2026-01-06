@@ -1,4 +1,4 @@
-<pre>
+f<pre>
 trxvu_yamcs/
 ├─ .github/
 ├─ .mvn/
@@ -19,7 +19,7 @@ trxvu_yamcs/
 │     │           └─ MyPacketPreprocessor.java
 │     └─ yamcs/
 │        ├─ etc/
-│        │  ├─ ==ground_control.yaml==
+│        │  ├─ **ground_control.yaml**
 │        │  ├─ processor.yaml
 │        │  ├─ yamcs.myproject.yaml
 │        │  └─ yamcs.yaml
@@ -145,9 +145,9 @@ trxvu_yamcs/
 │     │  ├─ 93ECFDDBE677289EF138493C9328A9CA397D4BC1.consistency_date
 │     │  └─ 93ECFDDBE677289EF138493C9328A9CA397D4BC1.serialized
 │     ├─ etc/
-│     │  ├─ ==ground_control.yaml==
+│     │  ├─ **ground_control.yaml**
 │     │  ├─ processor.yaml
-│     │  ├─ ==yamcs.ground_control.yaml==
+│     │  ├─ **yamcs.ground_control.yaml**
 │     │  ├─ yamcs.myproject.yaml
 │     │  └─ yamcs.yaml
 │     ├─ mdb/
